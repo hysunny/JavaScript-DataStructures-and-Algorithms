@@ -1,0 +1,11 @@
+/node_modules
+/npm-debug.log
+/app/logs
+node_modules/**
+.DS_Store
+.idea/**
+dist
+dist/**/*
+.DS_store
+.vscode/**
+
