@@ -9,3 +9,7 @@
 2. [数据结构与算法JavaScript描述（2） —— 栈（Stack）](/docs/Stack.md)
 
 3. [数据结构与算法JavaScript描述（3） —— 队列（Queue）](/docs/Queue.md)
+
+4. [数据结构与算法JavaScript描述（4） —— 链表（LinkedList）](/docs/LinkedList.md)
+
+5. [数据结构与算法JavaScript描述（5） —— 字典（Dictionary）](/docs/Dictionary.md)
